@@ -1,0 +1,18 @@
+{
+  "name": "glq-email",
+  "version": "0.0.1",
+  "description": "Email middleware for glq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glq",
+    "email"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "email": "^0.2.6"
+  }
+}
