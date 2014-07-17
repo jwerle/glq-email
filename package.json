@@ -14,5 +14,14 @@
   "license": "MIT",
   "dependencies": {
     "email": "^0.2.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwerle/glq-email.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwerle/glq-email/issues"
+  },
+  "homepage": "https://github.com/jwerle/glq-email"
 }
